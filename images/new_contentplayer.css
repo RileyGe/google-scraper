@@ -1,0 +1,16 @@
+#widget_content_player { height:300px; width:642px; position:relative; right:0; top:0; border:1px solid #ededed; background:#f9f9f9; overflow:hidden }
+#widget_content_player_prev, #widget_content_player_next { position:absolute; width:45px; height:45px; z-index:89; filter:alpha(opacity=50); opacity:.5; top:130px; overflow:hidden; line-height:10 }
+#widget_content_player_prev { left:10px; background:url(png24.png) no-repeat left top; _background:url(top_bg.png) no-repeat 2px -557px }
+#widget_content_player_next { right:10px; background:url(png24.png) no-repeat left -45px; _background:url(top_bg.png) no-repeat 2px -495px }
+#widget_content_player_control { position:relative; width:100% }
+#widget_content_player_control a:hover { filter:alpha(opacity=80); opacity:.8 }
+#widget_content_player .widget-content-player-imgview, #widget_content_player .widget-content-player-imgview img { margin:0; width:400px; height:300px }
+#widget_content_player .widget-content-player-imgnav { position:absolute; height:12px; width:200px; right:71px; bottom:13px; z-index:88; overflow:hidden }
+#widget_content_player .widget-content-player-imgnav a { float:right; height:12px; width:8px; margin-right:5px; background:url(png24.png) 20px -126px; _background:url(top_bg.png) -16px -623px; overflow:hidden; line-height:10 }
+#widget_content_player .widget-content-player-imgnav a:hover, #widget_content_player .widget-content-player-imgnav a.active { background:url(png24.png) 35px -126px; _background:url(top_bg.png) 0 -623px; width:12px }
+#widget_content_player .widget-content-player-imgnav-mask { position:absolute; bottom:0; left:0; height:40px; background:#000; width:100%; z-index:86; filter:alpha(opacity=40); opacity:.6 }
+#widget_content_player .widget-content-player-imgtit { position:absolute; width:240px; right:0; top:0; z-index:87; background:0; text-align:left }
+#widget_content_player .widget-content-player-imgtit a:link, #widget_content_player .widget-content-player-imgtit a:visited, #widget_content_player .widget-content-player-imgtit a:active { display:block; font:bold 18px/24px "Î¢ÈíÑÅºÚ", tahoma; text-decoration:none; color:#000; letter-spacing:1px; padding:10px }
+#widget_content_player .widget-content-player-imgtit a:hover { text-decoration:underline }
+#widget_content_player .widget-content-player-imgtit p { color:#666; line-height:24px; padding:0 10px }
+#widget_content_player_wrapper { width:400px }

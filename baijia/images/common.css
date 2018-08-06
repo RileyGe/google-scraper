@@ -1,0 +1,136 @@
+html { margin:0; padding:0; border:0 }
+body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section { margin:0; padding:0; border:0; font-size:100%; font:inherit; vertical-align:baseline }
+article, aside, details, figcaption, figure, dialog, footer, header, hgroup, menu, nav, section { display:block }
+body { line-height:1.5; background:white }
+table { border-collapse:separate; border-spacing:0 }
+caption, th, td { text-align:left; font-weight:normal; float:none!important }
+table, th, td { vertical-align:middle }
+blockquote:before, blockquote:after, q:before, q:after { content:'' }
+blockquote, q { quotes:"" "" }
+a img { border:0 }
+:focus { outline:0 }
+ul, ol, li { list-style:none }
+button, input, select, textarea, label { vertical-align:middle }
+h1, h2, h3, h4, h6, h6 { font-weight:bold; font-size:100% }
+a:link { text-decoration:none; color:#133db6 }
+a:hover { text-decoration:underline }
+a:visited { text-decoration:none }
+.align-r { text-align:right }
+.align-c { text-align:center }
+.align-l { text-align:left }
+.bold { font-weight:bold }
+.hide { display:none }
+.clearfix:after { clear:both; content:'.'; display:block; font-size:0; line-height:0; visibility:hidden; height:0 }
+.clearfix { zoom:1 }
+.ulist li { height:26px; line-height:26px; padding-left:8px; background-image:url(dot.png); background-repeat:no-repeat; background-position:left 10px; font-size:14px; overflow:hidden }
+.ulist li i { font-family:Arial; font-style:normal; padding-left:10px; font-size:13px; color:#999 }
+#header, #body, #footer { width:984px; margin:0 auto }
+.l-column { margin:12px 0 }
+.l-left-col { float:left }
+.l-right-col { float:right }
+.span-1 { width:10px }
+.span-2 { width:20px }
+.span-3 { width:30px }
+.span-4 { width:40px }
+.span-5 { width:50px }
+.span-6 { width:60px }
+.span-7 { width:70px }
+.span-8 { width:80px }
+.span-9 { width:90px }
+.span-10 { width:100px }
+.span-11 { width:110px }
+.span-12 { width:120px }
+.span-13 { width:130px }
+.span-14 { width:140px }
+.span-15 { width:150px }
+.span-16 { width:160px }
+.span-17 { width:170px }
+.span-18 { width:180px }
+.span-19 { width:190px }
+.span-20 { width:200px }
+.span-21 { width:210px }
+.span-22 { width:220px }
+.span-23 { width:230px }
+.span-24 { width:240px }
+.span-25 { width:250px }
+.span-26 { width:260px }
+.span-27 { width:270px }
+.span-28 { width:280px }
+.span-29 { width:290px }
+.span-30 { width:300px }
+.span-31 { width:310px }
+.span-32 { width:320px }
+.span-33 { width:330px }
+.span-34 { width:340px }
+.span-35 { width:350px }
+.span-36 { width:360px }
+.span-37 { width:370px }
+.span-38 { width:380px }
+.span-39 { width:390px }
+.span-40 { width:400px }
+.span-41 { width:410px }
+.span-42 { width:420px }
+.span-43 { width:430px }
+.span-44 { width:440px }
+.span-45 { width:450px }
+.span-46 { width:460px }
+.span-47 { width:470px }
+.span-48 { width:480px }
+.span-49 { width:490px }
+.span-50 { width:500px }
+.span-51 { width:510px }
+.span-52 { width:520px }
+.span-53 { width:530px }
+.span-54 { width:540px }
+.span-55 { width:550px }
+.span-56 { width:560px }
+.span-57 { width:570px }
+.span-58 { width:580px }
+.span-59 { width:590px }
+.span-60 { width:600px }
+.span-61 { width:610px }
+.span-62 { width:620px }
+.span-63 { width:630px }
+.span-64 { width:640px }
+.span-65 { width:650px }
+.span-66 { width:660px }
+.span-67 { width:670px }
+.span-68 { width:680px }
+.span-69 { width:690px }
+.span-70 { width:700px }
+.span-71 { width:710px }
+.span-72 { width:720px }
+.span-73 { width:730px }
+.span-74 { width:740px }
+.span-75 { width:750px }
+.span-76 { width:760px }
+.span-77 { width:770px }
+.span-78 { width:780px }
+.span-79 { width:790px }
+.span-80 { width:800px }
+.span-81 { width:810px }
+.span-82 { width:820px }
+.span-83 { width:830px }
+.span-84 { width:840px }
+.span-85 { width:850px }
+.span-86 { width:860px }
+.span-87 { width:870px }
+.span-88 { width:880px }
+.span-89 { width:890px }
+.span-90 { width:900px }
+.span-91 { width:910px }
+.span-92 { width:920px }
+.span-93 { width:930px }
+.span-94 { width:940px }
+.span-95 { width:950px }
+.span-96 { width:960px }
+.span-97 { width:970px }
+.span-98 { width:980px }
+.span-99 { width:990px }
+.mod { border:1px solid #dadada }
+.mod .hd { height:28px; line-height:29px; padding:0 10px; text-align:right; overflow:hidden }
+.mod .hd h3 { float:left; font-size:14px }
+.mod .hd .more { color:#333; overflow:hidden }
+.mod .hd .more a { padding:0 3px; color:#666 }
+.mod .bd { zoom:1 }
+.mod .bd:after { content:"."; display:block; height:0; clear:both; visibility:hidden }
